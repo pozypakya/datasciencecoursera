@@ -2,4 +2,4 @@
 
 ### Introduction
 
-This second programming assignment will require you to push file to GitHub
+This first programming assignment will require you to push file to GitHub
